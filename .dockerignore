@@ -1,0 +1,4 @@
+# Send only Docker configuration files to the image build context
+*
+!docker/
+!docker/**
